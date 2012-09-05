@@ -10,7 +10,7 @@ For details see http://shorl.com/koremutake.php
 
 ```
 <script>
-    koremutake.encode(10610353957)   // 'koremutake'
-    koremutake.decode('koremutake')  // 10610353957
+    koremutake.encode(10610353957);   // 'koremutake'
+    koremutake.decode('koremutake');  // 10610353957
 </script>
 ```
